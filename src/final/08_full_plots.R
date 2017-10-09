@@ -9,6 +9,10 @@ library(plotly)
 load("C:/Users/ckell/OneDrive/Penn State/Research/ashton_diff_project_git/data/final/full_diff1_dat.Rdata")
 load("C:/Users/ckell/OneDrive/Penn State/Research/ashton_diff_project_git/data/final/full_diff2_dat.Rdata")
 
+
+mean(diff1_dat$AvgNum)
+mean(diff2_dat$AvgNum)
+max(diff1_dat$AvgNum)
 ####
 # Creating this plot for CLUSTERING COEFFICIENT 
 ####
