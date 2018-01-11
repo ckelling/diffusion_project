@@ -1,0 +1,14 @@
+output/ignore/ 
+*.csv
+*.Rdata
+src/code_save.docx
+*.zip
+src/.Rhistory
+src/00_scratchwork.R
+src/00_CARBayes_vignette_code.R
+src/00_first_try_point_process_model.R
+output/ignore/511_images/BotSyc.png
+output/ignore/511_images/ConvPlot.png
+output/ignore/511_images/RPSeMad.png
+output/ignore/511_images/RPWMad.png
+output/ignore/diffusion_gif/final_SI.gif
