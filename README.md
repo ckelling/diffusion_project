@@ -1,1 +1,1 @@
-# ashton_diff_project
+# diffusion_project
